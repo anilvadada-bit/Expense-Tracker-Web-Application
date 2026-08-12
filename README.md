@@ -2,19 +2,19 @@
 
 A modern and responsive **Expense Tracker Web Application** built with HTML, CSS, and JavaScript. It helps users record income and expenses, organize transactions by category, and automatically calculate their current balance.
 
-## ✨ Features
+##  Features
 
-* 💰 Track total balance
-* 📈 Add income transactions
-* 📉 Add expense transactions
-* 🏷️ Categorize transactions
-* 🧮 Automatically calculate income, expenses, and balance
-* 🗑️ Delete transactions
-* 💾 Store transactions using browser Local Storage
-* 📱 Responsive design for desktop and mobile devices
-* 🎨 Clean and professional finance-dashboard UI
+*  Track total balance
+*  Add income transactions
+*  Add expense transactions
+*  Categorize transactions
+*  Automatically calculate income, expenses, and balance
+*  Delete transactions
+*  Store transactions using browser Local Storage
+*  Responsive design for desktop and mobile devices
+*  Clean and professional finance-dashboard UI
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * **HTML5** — Application structure
 * **CSS3** — Styling, layout, and responsive design
@@ -22,7 +22,7 @@ A modern and responsive **Expense Tracker Web Application** built with HTML, CSS
 * **Local Storage API** — Persistent transaction data
 * **Git & GitHub** — Version control and project hosting
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 Expense-Tracker-Web-Application/
@@ -33,7 +33,7 @@ Expense-Tracker-Web-Application/
 └── README.md
 ```
 
-## 🚀 How to Run Locally
+##  How to Run Locally
 
 1. Clone the repository:
 
